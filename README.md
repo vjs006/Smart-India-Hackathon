@@ -4,10 +4,11 @@ This has been made to serve as the front-end display and backend unit for a hard
 Key Features:
   1. Recognises the voice of the user for hindi language (majorly spoken in Himachal Pradesh).
   2. The user can brief their symtoms in their native language and still have an appointment booked for them, and appointment details will be sent to the user.
-  3. It will also be read to the user on spot in their native language.
-  4. This is done due to the less signal reception and scarce.
-  5. Books an appointment based on the symptom of the user detected from their voice.
-  6. Involves voice recognition, tokenizing, NLP to find symptoms and searches the nearest doctor who specializes with the disease involved with the symptoms.
+  3. Detects the disease associated with the symptom.
+  4. It will also be read to the user on spot in their native language.
+  5. This is done due to the less signal reception and scarce.
+  6. Books an appointment based on the symptom of the user detected from their voice.
+  7. Involves voice recognition, tokenizing, NLP to find symptoms and searches the nearest doctor who specializes with the disease involved with the symptoms.
   
 
 ![WhatsApp Image 2024-07-29 at 18 21 18_de050dee](https://github.com/user-attachments/assets/7ae8ed7d-6b6c-44ec-a632-7dac6cf1f5d0)
